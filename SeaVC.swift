@@ -13,7 +13,7 @@ class SeaVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        // Do any additionbjknal setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
